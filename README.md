@@ -67,6 +67,4 @@ php artisan serve
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
-You may use, modify, and share the code for personal and educational purposes, but **commercial use is strictly prohibited**.  
-
-[License](LICENSE)
+You may use, modify, and share the code for personal and educational purposes, but **commercial use is strictly prohibited**.

@@ -3,8 +3,8 @@
 ## 1. Clone or Download the Project
 Option 1 (Git):
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+https://github.com/vikashsharma1997/urlshortner.git
+cd urlshortner
 ```
 
 

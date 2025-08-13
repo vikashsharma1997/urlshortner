@@ -3,7 +3,7 @@
 ## 1. Clone or Download the Project
 Option 1 (Git):
 ```bash
-https://github.com/vikashsharma1997/urlshortner.git
+git clone https://github.com/vikashsharma1997/urlshortner.git
 cd urlshortner
 ```
 

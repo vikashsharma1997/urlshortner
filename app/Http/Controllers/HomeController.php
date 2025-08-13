@@ -132,9 +132,13 @@ class HomeController extends Controller
         $validated = $request->validate([
             'url'    => 'required|url',
         ]);
+        $shortCode = null;
         do {
             $shortCode = Str::random(6);
         } while (ShortUrl::where('shorten_url', $shortCode)->exists());
+        if (empty($shortCode)) {
+            return back()->withErrors(['error' => 'Unable to generate short code. Please try again.']);
+        }
         $shortUrl = url($shortCode);
         ShortUrl::create([
             'original_url' => $validated['url'],

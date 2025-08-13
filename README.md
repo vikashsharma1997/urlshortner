@@ -1,4 +1,5 @@
 # Local Installation Guide
+Note:- Use xampp 8.2 version
 
 ## 1. Clone or Download the Project
 Option 1 (Git):

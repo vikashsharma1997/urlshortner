@@ -62,6 +62,16 @@ Run the Laravel development server:
 php artisan serve
 ```
 
+## 8. Demo Credentials
+Superadmin: super@urlshortner.com
+Password: super@urlshortner.com
+
+Admin: admin@urlshortner.com
+Password: admin@urlshortner.com
+
+Member: member@urlshortner.com
+Password: member@urlshortner.com
+
 ---
 
 ## License
